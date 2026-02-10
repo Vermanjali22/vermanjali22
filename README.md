@@ -1,5 +1,11 @@
 ## 💫 About Me:
-I'm aiml college student. and currently working on building dsa foundations.
+## Hello! 👋
+
+I'm a computer science student exploring the world of programming and software development.
+
+- 📚 Currently learning: Python & Data Structures
+- 💡 Interested in: Problem-solving and algorithms
+- 🤝 Open to: Learning, collaboration, and internships
 
 
 ## 🌐 Socials:
