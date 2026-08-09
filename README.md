@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anjali 👋</h1>
+<h1 align="center">Hi there, I'm Anjali Verma 👋</h1>
 <h3 align="center">Aspiring Data Analyst | AI/ML Enthusiast | Student</h3>
 
 <p align="center">
